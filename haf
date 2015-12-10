@@ -1,0 +1,3 @@
+#!/bin/bash
+xsltproc -o sample.html /usr/share/sgml/docbook/xsl-stylesheets-1.78.1/html/docbook.xsl exer.xml
+
